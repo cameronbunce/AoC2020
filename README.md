@@ -1,4 +1,4 @@
-##Advent Of Code 2020
+Advent Of Code 2020
 
 These are my super rough solutions, guaranteed to be as performant as garbage
 
