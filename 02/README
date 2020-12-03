@@ -1,0 +1,3 @@
+Added Helper function to the rule parser, 
+I don't like getting too complex too soon, so I haven't gone full Object Oriented yet on the AoC
+Last year, there was some re-using of concepts that warranted building classes, but then again I didn't stick with it that long.
