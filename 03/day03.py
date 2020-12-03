@@ -7,7 +7,7 @@ with open("input") as f:
 map = []
 
 for line in mapraw:
-   map.append(list(line))
+   map.append(list(line[0:-1]))
 
 def istree(maybe):
    if maybe == '#':
