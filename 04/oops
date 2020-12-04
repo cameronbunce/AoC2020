@@ -1,0 +1,9 @@
+>>> len(passports[0])
+57329581
+>>> len(passports[1])
+2
+>>> 
+
+
+when you forget to increment, 
+and then you forget to re-initialize...
